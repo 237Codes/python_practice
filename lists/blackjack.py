@@ -21,3 +21,9 @@ def blackjack(score):
         print("Hit me!")
 
 
+blackjack(24)
+blackjack(19)
+blackjack(21)
+blackjack(10)
+
+
