@@ -5,4 +5,4 @@ class Pokemon():
 		self.damage = damage # The amount of damage this pokemon does to its opponent every attack
 		
 	def attack(self, opponent):
-		pass
+		
