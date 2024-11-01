@@ -4,5 +4,5 @@ class Pokemon():
 		self.hp = hp # hit points
 		self.damage = damage # The amount of damage this pokemon does to its opponent every attack
 		
-	def attack(self, opponent):
+	# def attack(self, opponent):
 		
